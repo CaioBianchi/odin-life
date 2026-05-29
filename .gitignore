@@ -1,0 +1,30 @@
+# Odin build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Build outputs
+life
+odin-life
+build/
+bin/
+
+# Editor and OS
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Temporary / debug
+*.log
+*.tmp
+core
